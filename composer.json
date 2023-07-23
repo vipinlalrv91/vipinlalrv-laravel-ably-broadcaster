@@ -1,0 +1,19 @@
+{
+    "name": "vipinlalrv/laravel-ably-broadcaster",
+    "description": "An Ably broadcaster for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vipinlalrv\\LaravelAblyBroadcaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vipinlalrv91",
+            "email": "vipinlalrv@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
