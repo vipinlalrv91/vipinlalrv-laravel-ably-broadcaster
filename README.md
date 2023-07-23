@@ -12,7 +12,7 @@ Adding support for the [Ably](https://ably.io) broadcaster to Laravel! This uses
 You can install the package via composer:
 
 ```bash
-composer require vipinlalrv/laravel-ably-broadcaster"
+composer require vipinlalrv/laravel-ably-broadcaster
 ```
 
 
